@@ -10,6 +10,7 @@ _add_boost_lib(
     ${BOOST_SOURCE}/libs/test/src/progress_monitor.cpp
     ${BOOST_SOURCE}/libs/test/src/results_collector.cpp
     ${BOOST_SOURCE}/libs/test/src/results_reporter.cpp
+    ${BOOST_SOURCE}/libs/test/src/test_framework_init_observer.cpp
     ${BOOST_SOURCE}/libs/test/src/test_tools.cpp
     ${BOOST_SOURCE}/libs/test/src/test_tree.cpp
     ${BOOST_SOURCE}/libs/test/src/unit_test_log.cpp
